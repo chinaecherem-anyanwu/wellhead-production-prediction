@@ -45,10 +45,11 @@ Simpler models (Decision Tree, SVM) were excluded after diagnostic learning curv
 ## Repository Contents
 
 ```
-├── Anyanwu_CHE_696_Final_Project_Code.ipynb   # Full analysis notebook
-├── Anyanwu_CHE_696_Project_Report.pdf         # Full written report
-├── CHE_696_Final_Project_Slides.pptx          # Presentation slides
-└── README.md
+├── Anyanwu_CHE_696_Final_Project_Code (1).ipynb                      # Full analysis notebook
+├── Chinaecherem Anyanwu's CHE 696 Final Project Slides.pptx          # Presentation slides
+├── README.md
+└── Others...
+
 ```
 
 
